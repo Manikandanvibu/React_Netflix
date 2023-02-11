@@ -1,0 +1,12 @@
+.logo{
+    width: 5rem;
+    height: 5rem;
+}
+.Nav{
+    display: flex;
+    position: fixed;
+    top: 0px;
+}
+.nav_black{
+    color: red;
+}
